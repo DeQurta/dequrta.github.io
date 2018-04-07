@@ -1,0 +1,41 @@
+.header{
+	font-size: 24px;
+	line-height: 1.5;
+	margin: 90px auto 120px;
+}
+.header span{
+	display: block;
+}
+.form{
+	border: 5px solid #472cc3;
+	padding: 30px 20px;
+}
+.form p{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 40px;
+}
+.btn-instr{
+	margin: 10px auto;
+	background-color: #472cc3;
+}
+.form input{
+	margin: 10px auto;
+}
+.features{
+	margin-top: 30px;
+}
+.features strong{
+	font-size: 24px;
+	font-weight: 900;
+}
+.features img{
+	margin-bottom: 20px;
+}
+.features p{
+	font-size: 16px;
+	margin-bottom: 100px;
+}
+.clients{
+	margin-bottom: 90px;
+}
